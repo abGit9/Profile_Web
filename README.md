@@ -1,12 +1,16 @@
-<h1>Profile Website</h1>
+<h1 align = "center"> 
+   <p align="center" >Profile Website</p>
+ <p align = "center"><img align ="center" alt="Profile Website Graphic" width="150px" src="images/image_d.png" /></p>
 
-<h2>Description</h2>
+</h1> 
+<p>
 To add a personal touch to my resume, I crafted a comprehensive profile website  showcasing my background and experiences using colorful animations mainly implemented with the anime.js library. 
+<a href="https://abhat.io/">Take a look!</a>
+ <h2>Repo</h2>
+The code in this repository specifically pertains to the web development section of the website, summarizing my skills in this area. For an in-depth view and to see my animations in action, you can explore the corresponding page on my profile website via this link:<a href="https://abhat.io/app/software/web/web.html"> Web Development</a>
 
-The code in this repository specifically pertains to the web development section of the website, summarizing my skills in this area. For an in-depth view and to see my animations in action, you can explore the corresponding page on my profile website via this link: https://abhat.io/app/software/web/web.html.
 
-Profile Website: https://abhat.io/
-<br />
+<br /></p>
 
 
 <h2>Languages and Apis Used</h2>
@@ -15,6 +19,8 @@ Profile Website: https://abhat.io/
 - <b>CSS</b>
 - <b>HTML</b>
 - <b>Anime.js</b>
+
+<a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer screen graphic created by Freepik - Flaticon</a>
 
 <!--
 <h2>Environments Used </h2>
