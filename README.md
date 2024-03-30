@@ -11,7 +11,7 @@
 To add a personal touch to my resume, I crafted a comprehensive profile website  showcasing my background and experiences using colorful animations mainly implemented with the anime.js library. <a href="https://abhat.io/">Take a look!</a></p>
 
  <h2>Repo</h2>
-The code in this repository specifically pertains to the web development webpage of my website. Through engaging visuals and interactive elements, this webpage not only narrates my developmental journey and technical choices but also illustrates the evolution of my design and coding skills beyond mobile apps into the vast possibilities of web development. For an in-depth view and to see my animations in action click here:<a href="https://abhat.io/app/software/web/web.html"> Web Development</a>
+The code in this repository specifically pertains to the web development section of my website. Through engaging visuals and interactive elements, this webpage not only narrates my developmental journey and technical choices but also illustrates the evolution of my design and coding skills beyond mobile apps into the vast possibilities of web development. For an in-depth view and to see my animations in action click here:<a href="https://abhat.io/app/software/web/web.html"> Web Development</a>
 
 
 <br /></p>
