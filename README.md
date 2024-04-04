@@ -12,9 +12,11 @@
 <br>
 
 <h2>Overview</h2>
-
-<p>This web application is not just a profile, but a vibrant testament to my growth, learning, and self-taught expertise in software development. It artfully illustrates my professional background and personal interests through intricate animations—most of which are powered by the versatile anime.js library, with some crafted entirely from scratch. Incorporating dynamic layouts accentuated by vibrant colors, this project not only showcases my commitment to pushing boundaries and embracing challenges but also enhances the narrative of my professional and personal journey. I warmly invite you to explore its features, provide feedback, and discuss potential collaborations, as we journey through the realms of creativity and technology together. Your engagement, in any form, is deeply valued and appreciated. Check it out!</p>
 <a href = "https://abhat.io/">abhat.io</a>
+<br>
+<br>
+<p>This web application is not just a profile, but a vibrant testament to my growth, learning, and self-taught expertise in software development. It artfully illustrates my professional background and personal interests through intricate animations—most of which are powered by the versatile anime.js library, with some crafted entirely from scratch. Incorporating dynamic layouts accentuated by vibrant colors, this project not only showcases my commitment to pushing boundaries and embracing challenges but also enhances the narrative of my professional and personal journey. I warmly invite you to explore its features, provide feedback, and discuss potential collaborations, as we journey through the realms of creativity and technology together. Your engagement, in any form, is deeply valued and appreciated. Check it out!</p>
+
 
 <h2>Technology Stack</h2>
 <ul>
@@ -23,6 +25,9 @@
   
 </ul>
 <h2>Repository</h2>
+<a href = "https://abhat.io/app/software/web/web.html">Web Development Page</a> 
+<br>
+<br>
 <p>This repo provides the code for the Web Development page of my profile website. It showcases a user-centric design, featuring interactive containers that effortlessly expand and contract in response to mouse movements. Users can navigate and dynamically adjust content areas for an enhanced viewing experience, making the exploration of the site both intuitive and visually engaging.</p>
 <p>The expansion mechanism of these containers is ingeniously crafted without relying on the `anime.js` library, which is otherwise utilized extensively across the site. The webpage reacts to mouseover events by recalculating container dimensions and positions, creating an experience that is both fluid and responsive. This approach facilitates seamless transitions between the site's different sections, inviting users to delve deeper into the narrative of my development journey and technical acumen.
 
